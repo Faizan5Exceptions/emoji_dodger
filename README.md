@@ -61,7 +61,7 @@ The longer you survive, the faster and more frequent the emojis become. How long
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/emoji-dodger.git
+git clone https://github.com/Faizan5Exceptions/emoji_dodger.git
 cd emoji-dodger
 
 # 2. Get dependencies
